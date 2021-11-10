@@ -1,6 +1,6 @@
 # Hi, I'm Jasmina Buresch :relaxed: :notes: :cherry_blossom: 
 
-I am an Economics Master's student at Fordham University, and I'm having fun exploring the intersection of my econ knowledge and data science for intiutive solutions to real world challenges!
+I am an Economics Master's student at Fordham University, and I'm having fun exploring the intersection of my econ knowledge and data science for intuitive solutions to real world challenges!
 
 Future projects I hope to work on:
 - modeling monetary policy shocks on output, interest rates and unemployment using VARs 
