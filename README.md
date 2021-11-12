@@ -9,4 +9,4 @@ Future projects I intend to work on:
 - using AEJ data and converting Stata do files into analysis in R and Python
 - automating memo writing using R Markdown, LaTex or a combo fo the two
 
-Keep up with me on LinkedIn [here](https://www.linkedin.com/in/jasmina-buresch-a732a4156/) & on Medium [here](https://medium.com/@jasminaburesch) 
+Keep up with me on LinkedIn [here](https://www.linkedin.com/in/jasmina-buresch-a732a4156/)
